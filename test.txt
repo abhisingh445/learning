@@ -1,0 +1,10 @@
+ Volume in drive D is MM
+ Volume Serial Number is 347C-2355
+
+ Directory of D:\git repo
+
+25-07-2021  14:22    <DIR>          .
+25-07-2021  14:22    <DIR>          ..
+25-07-2021  14:22                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,715,343,872 bytes free
